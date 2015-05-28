@@ -1,0 +1,100 @@
+.ftitle{
+font-size:14px;
+font-weight:bold;
+padding:5px 0;
+margin-bottom:10px;
+border-bottom:1px solid #ccc;
+}
+.fitem{
+margin-bottom:5px;
+}
+.fitem label{
+display:inline-block;
+width:80px;
+}
+.fitem input{
+width:160px;
+}
+
+
+
+
+/* EMPLOYEE*/
+#fmemp{
+margin:0;
+padding:10px 30px;
+}
+/*/
+
+/* Divisi*/
+#fmdivisi{
+margin:0;
+padding:10px 30px;
+}
+/*/
+
+/*roles*/
+#fmroles{
+margin:0;
+padding:10px 30px;
+}
+/*/
+
+/*Position*/
+#fmposisi{
+margin:0;
+padding:10px 30px;
+}
+/*/
+
+/*Category test*/
+#fmcat_test{
+margin:0;
+padding:10px 30px;
+}
+/*/
+
+/*Category Document*/
+#fmcat_document{
+margin:0;
+padding:10px 30px;
+}
+/*/
+/*Category newwork*/
+#fmnoncomp{
+margin:0;
+padding:10px 30px;
+}
+/*/
+/*family*/
+#fmfamily{
+margin:0;
+padding:10px 30px;
+}
+/*/
+/*/
+#fmincomp{
+margin:0;
+padding:10px 30px;
+}
+#fmtest{
+margin:0;
+padding:10px 30px;
+}
+
+#fmformal{
+margin:0;
+padding:10px 30px;
+}
+#fminformal{
+margin:0;
+padding:10px 30px;
+}
+#fmtest{
+margin:0;
+padding:10px 30px;
+}
+#fmlanguage{
+margin:0;
+padding:10px 30px;
+}
